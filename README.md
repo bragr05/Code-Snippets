@@ -9,3 +9,4 @@ Welcome to my code snippets repository! This repo is designed to store and organ
 ![SQL](https://img.shields.io/badge/SQL-Query-blue)
 
 -   [Trusted Assemblies](SQL/Trusted%20Assemblies.md)
+-   [Delete all databases ](SQL/Delete%20All%20Databases.md)
